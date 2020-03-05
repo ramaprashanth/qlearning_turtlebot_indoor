@@ -17,7 +17,7 @@ The code is implemented in Python and has the following Dependency :
 Create a folder in which you would like to clone the project repository.
 
 Execute the following command:
-git clone https://github.com/jkvasan7692/qlearning_turtlebot_indoor.git
+git clone https://github.com/ramaprashanth/qlearning_turtlebot_indoor.git
 
 ### Compilation
 
